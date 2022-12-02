@@ -1,0 +1,39 @@
+body .common-form {
+  width 340px;
+  margin 0 auto;
+  margin-top 50px;
+  box-shadow 0 0 10px rgba(0, 0, 0, 0.5);
+  padding 40px 0;
+  text-align center;
+  border-radius 10px;
+  background-color #fff;
+}
+
+body .common-form h3 {
+  margin 0 0 30px;
+}
+
+body .common-form input {
+  display inline-block;
+  margin-bottom 20px;
+  padding 10px 20px;
+  border-radius 10px;
+  border 2px solid #000;
+  background-color transparent;
+  outline none;
+}
+
+body .common-form button {
+  display inline-block;
+  width 70%;
+  height 50px;
+  border none;
+  background-color orange;
+  font-weight bold;
+  border-radius 10px;
+  text-transform uppercase;
+}
+
+body .common-form inputlast-child {
+  margin-bottom 0;
+}
